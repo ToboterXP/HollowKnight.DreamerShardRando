@@ -1,4 +1,4 @@
-# MoreEndings
+# Dreamer Shard Rando
 
 An add-on for the Randomizer 4 mod of the game Hollow Knight.
 
